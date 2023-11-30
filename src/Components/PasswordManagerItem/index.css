@@ -1,0 +1,57 @@
+.list-item-container {
+  border: 1px solid #b6c3ca;
+  height: 150px;
+  width: 300px;
+  background-color: transparent;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  margin: 20px;
+}
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.delete-icon {
+  height: 30px;
+  width: 30px;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.list-item-logo-container {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hashed-password {
+  height: 30px;
+  width: 150px;
+}
+.bgClassName1 {
+  background-color: #10b981;
+}
+.bgClassName2 {
+  background-color: #f97316;
+}
+.bgClassName3 {
+  background-color: #14b8a6;
+}
+.bgClassName4 {
+  background-color: #b91c1c;
+}
+.bgClassName5 {
+  background-color: #0ea5e9;
+}
+.bgClassName6 {
+  background-color: #64748b;
+}
